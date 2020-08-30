@@ -1,2 +1,3 @@
 # projeto_01
- first repository
+ 
+first course project *Danki Code*
