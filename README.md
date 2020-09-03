@@ -1,4 +1,4 @@
 # projeto_01
-## Simple lading page
+## Simple landing page
  
  My first project 
